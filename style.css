@@ -1,0 +1,27 @@
+body{
+    background-size: 100%;
+
+}
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.Note{
+    font-size: 16px;
+    color: navy;
+    word-spacing: 1px;
+}
+
+
+
+.play_button{
+    font-size: 25px;
+    width: 12%;
+}
+
+canvas{
+    border: 5px solid black;
+}
